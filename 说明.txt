@@ -1,3 +1,16 @@
-APPLEM20501ÍêÕûÔ´´úÂë
-×Ô´ø¸÷ÖÖ¿Ø¼ş£¬´úÂë¿Ï¶¨ÍêÕû£¡
-ÌØ±ğËµÃ÷FREELOGIN´úÂëĞèÒª×ÔĞĞÍêÉÆ
+APPLEM20501å®Œæ•´æºä»£ç 
+è‡ªå¸¦å„ç§æ§ä»¶ï¼Œä»£ç è‚¯å®šå®Œæ•´ï¼
+ç‰¹åˆ«è¯´æ˜FREELOGINä»£ç éœ€è¦è‡ªè¡Œå®Œå–„
+
+1.å®‰è£…Raizeæ§ä»¶
+
+2.ä¾æ¬¡å®‰è£…ä»¥ä¸‹æ§ä»¶
+C:\applem2\demmrfm\JSocket
+C:\applem2\demmrfm\VCLZip
+C:\applem2\demmrfm\RSA
+C:\applem2\demmrfm\WebBrowserUI
+C:\applem2\demmrfm\BitBtn
+C:\applem2\GameOfMir\æ§ä»¶\unrar\src
+
+3.M2ä¸»ç¨‹åºæŠ¥é”™ä¿®æ”¹
+IdUDPClientLog.Send(string(ABuffer));
